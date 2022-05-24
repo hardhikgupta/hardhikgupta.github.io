@@ -1,19 +1,26 @@
 /*.head{
   color: #191919;
 };*/
+.body {
+background-color: #191919
+}
 .head{
-  background-color: #191919;
-  height: 23.875rem;
+  background-color: white;
+  height: 20rem;
   padding-top: 6.25rem;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
 }
 .head-txt{
-  color:white;
+  color: #191919;
   display: flex;
   justify-content: center;
   font-size: 2.188rem;
   
+}
+.twitter-timeline {
+  background-color: #191919;
+  color: white;
 }
 .head-btn{
   display: flex;
@@ -26,14 +33,13 @@
 .footer{
   background-color: #191919;
   color:white;
- 
   border-top-left-radius: 50px;
 }
 
 .footer-basic {
   padding:40px 0;
   background-color:#191919;
-  color:#white;
+  color: white;
   border-top-left-radius: 50px;
 }
 
